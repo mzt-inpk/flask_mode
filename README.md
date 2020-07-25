@@ -8,3 +8,6 @@
 2.在test_flak.py与templates/login.html两个文件中修改网页显示的选项，如：将两个文件中‘fun1’改为‘长度统计’
 >test_flak.py : select1 = 'fun1'  
 >templates/login.html : value="fun1"
+## 可能需要安装的模块
+flask模块，安装方法：
+>pip install flask
